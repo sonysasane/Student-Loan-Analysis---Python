@@ -1,2 +1,3 @@
 # Student-Loan-Analysis---Python
 Python EDA of education loan data for students in the USA and Canada: cleaning, exploratory analysis and insights on what drives loan defaults and business risk.
+This project analyzes loan application and repayment data for international students who took education loans to study in the USA and Canada. Using Python (pandas, NumPy, Matplotlib, Seaborn), it cleans and prepares the raw data, runs exploratory data analysis to find patterns in repayment behavior, and identifies the main factors linked to loan defaults. The result is a set of practical recommendations to help lenders spot high-risk applicants earlier and reduce default rates.
